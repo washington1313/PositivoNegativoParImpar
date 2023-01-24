@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativoParImpar\PositivoNegativoParImpar\bin\Debug\PositivoNegativoParImpar.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativoParImpar\PositivoNegativoParImpar\bin\Debug\PositivoNegativoParImpar.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativoParImpar\PositivoNegativoParImpar\bin\Debug\PositivoNegativoParImpar.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativoParImpar\PositivoNegativoParImpar\obj\Debug\PositivoNegativoParImpar.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativoParImpar\PositivoNegativoParImpar\obj\Debug\PositivoNegativoParImpar.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativoParImpar\PositivoNegativoParImpar\obj\Debug\PositivoNegativoParImpar.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativoParImpar\PositivoNegativoParImpar\obj\Debug\PositivoNegativoParImpar.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\PositivoNegativoParImpar\PositivoNegativoParImpar\obj\Debug\PositivoNegativoParImpar.pdb
