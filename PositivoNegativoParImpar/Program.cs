@@ -19,13 +19,13 @@ namespace PositivoNegativoParImpar
             {
                 Console.WriteLine("Número Par / Negativo ");
             }
-            else if (numero == 0)
+            else if (numero == 0) 
             {
-                Console.WriteLine("Zero é NEUTRO");
+                Console.WriteLine("Zero é NEUTRO");            
             }
-            else if (numero % 2 == 1 && numero > 0)
+            else if (numero % 2 == 1 && numero > 0) 
             {
-                Console.WriteLine("Número Ímpar / Positivo ");
+                Console.WriteLine("Número Ímpar / Positivo ");            
             }
             else if (numero % 2 == -1 && numero < 0)
             {
